@@ -13,7 +13,7 @@ https://py3.codeskulptor.org/#user303_FoF2Efiv6Z7lU0i.py
 
 Border class:
 
-https://py3.codeskulptor.org/#user303_eyam2r6sS4UHOw6_1.py
+https://py3.codeskulptor.org/#user303_eyam2r6sS4UHOw6_2.py
 
 Interaction Class:
 
