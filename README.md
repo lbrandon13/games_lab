@@ -5,7 +5,7 @@ main:
 https://py3.codeskulptor.org/#user303_UpoeznsXNC_14.py
 
 Updated by Jermaine and Humza:
-https://py3.codeskulptor.org/#user303_UpoeznsXNC_16.py
+https://py3.codeskulptor.org/#user303_UpoeznsXNC_17.py
 
 Player class:
 
