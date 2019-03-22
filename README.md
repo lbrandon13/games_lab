@@ -29,6 +29,7 @@ https://py3.codeskulptor.org/#user303_Apsp3I16Di3q6zQ.py
 
 Ball Class:
 
-https://py3.codeskulptor.org/#user303_eIaTLBWcY5_0.py
+https://py3.codeskulptor.org/#user303_eIaTLBWcY5_1.py
 
+Humza and Jermaine:
 https://py3.codeskulptor.org/#user303_Dztnux8oBZs9QA3_4.py
