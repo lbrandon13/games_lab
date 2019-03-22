@@ -40,3 +40,7 @@ https://py3.codeskulptor.org/#user303_Dztnux8oBZs9QA3_13.py
 State Class:
 
 https://py3.codeskulptor.org/#user303_IhZ0SYce1YLJY8Z.py
+
+Vector Class (Slimmed):
+
+https://py3.codeskulptor.org/#user303_I0jMGertv8_0.py
