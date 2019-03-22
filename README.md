@@ -47,4 +47,4 @@ https://py3.codeskulptor.org/#user303_lDet42Kt9y_5.py
 
 Vector Class (Slimmed):
 
-https://py3.codeskulptor.org/#user303_I0jMGertv8_1.py
+https://py3.codeskulptor.org/#user303_I0jMGertv8_2.py
