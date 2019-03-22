@@ -5,7 +5,7 @@ main:
 https://py3.codeskulptor.org/#user303_UpoeznsXNC_14.py
 
 Updated by Jermaine and Humza:
-https://py3.codeskulptor.org/#user303_LkGhj1sFfz_3.py
+https://py3.codeskulptor.org/#user303_LkGhj1sFfz_5.py
 
 Player class:
 
