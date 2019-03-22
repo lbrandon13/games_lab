@@ -9,7 +9,7 @@ https://py3.codeskulptor.org/#user303_LkGhj1sFfz_6.py
 
 Player class:
 
-https://py3.codeskulptor.org/#user303_FoF2Efiv6Z7lU0i.py
+https://py3.codeskulptor.org/#user303_FoF2Efiv6Z7lU0i_0.py
 
 Border class:
 
