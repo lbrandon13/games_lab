@@ -1,5 +1,9 @@
 # games_lab
 
+Game Class:
+
+https://py3.codeskulptor.org/#user303_x0wIrIn6PK6xTWd.py
+
 main:
 
 https://py3.codeskulptor.org/#user303_UpoeznsXNC_14.py
