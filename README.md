@@ -2,7 +2,7 @@
 
 Game Class:
 
-https://py3.codeskulptor.org/#user303_x0wIrIn6PK6xTWd_33.py
+https://py3.codeskulptor.org/#user303_x0wIrIn6PK6xTWd_44.py
 
 main:
 
@@ -39,7 +39,7 @@ Humza and Jermaine:
 https://py3.codeskulptor.org/#user303_WqytpJzInvV8oQq_4.py
 
 V3:
-https://py3.codeskulptor.org/#user303_Dztnux8oBZs9QA3_13.py
+https://py3.codeskulptor.org/#user303_DxYmQtRimW_0.py
 
 State Class:
 
