@@ -2,7 +2,7 @@
 
 Game Class:
 
-https://py3.codeskulptor.org/#user303_x0wIrIn6PK6xTWd_78.py
+https://py3.codeskulptor.org/#user303_x0wIrIn6PK6xTWd_80.py
 
 main:
 
@@ -58,5 +58,4 @@ https://py3.codeskulptor.org/#user303_I0jMGertv8_6.py
 
 AIPlayer Class:
 
-https://py3.codeskulptor.org/#user303_dJJ3lDmcrWJg3pT_1.py
-
+https://py3.codeskulptor.org/#user303_dJJ3lDmcrWJg3pT_5.py
