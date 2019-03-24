@@ -2,7 +2,7 @@
 
 Game Class:
 
-https://py3.codeskulptor.org/#user303_x0wIrIn6PK6xTWd_76.py
+https://py3.codeskulptor.org/#user303_x0wIrIn6PK6xTWd_78.py
 
 main:
 
@@ -13,7 +13,7 @@ https://py3.codeskulptor.org/#user303_LkGhj1sFfz_7.py
 
 Player class:
 
-https://py3.codeskulptor.org/#user303_FoF2Efiv6Z7lU0i_2.py
+https://py3.codeskulptor.org/#user303_FoF2Efiv6Z7lU0i_6.py
 
 Border class:
 
