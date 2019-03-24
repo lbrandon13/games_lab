@@ -2,7 +2,7 @@
 
 Game Class:
 
-https://py3.codeskulptor.org/#user303_x0wIrIn6PK6xTWd_73.py
+https://py3.codeskulptor.org/#user303_x0wIrIn6PK6xTWd_76.py
 
 main:
 
