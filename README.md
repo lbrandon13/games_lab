@@ -56,3 +56,7 @@ Vector Class (Slimmed):
 
 https://py3.codeskulptor.org/#user303_I0jMGertv8_6.py
 
+AIPlayer Class:
+
+https://py3.codeskulptor.org/#user303_dJJ3lDmcrWJg3pT_1.py
+
