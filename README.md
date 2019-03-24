@@ -2,7 +2,7 @@
 
 Game Class:
 
-https://py3.codeskulptor.org/#user303_x0wIrIn6PK6xTWd_82.py
+https://py3.codeskulptor.org/#user303_d0jXUBECq3_2.py
 
 main:
 
@@ -46,7 +46,7 @@ https://py3.codeskulptor.org/#user303_DxYmQtRimW_13.py
 
 State Class:
 
-https://py3.codeskulptor.org/#user303_IhZ0SYce1YLJY8Z_3.py
+https://py3.codeskulptor.org/#user303_IhZ0SYce1YLJY8Z_8.py
 
 Menu Class (Matt):
 
