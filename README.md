@@ -8,7 +8,7 @@ main:
 
 https://py3.codeskulptor.org/#user303_UpoeznsXNC_14.py
 
-Updated by Jermaine and Humza:
+V2:
 https://py3.codeskulptor.org/#user303_LkGhj1sFfz_7.py
 
 Player class:
@@ -35,7 +35,7 @@ Ball Class:
 
 https://py3.codeskulptor.org/#user303_eIaTLBWcY5_1.py
 
-Humza and Jermaine:
+V2:
 https://py3.codeskulptor.org/#user303_WqytpJzInvV8oQq_4.py
 
 V3:
