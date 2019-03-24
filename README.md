@@ -59,3 +59,7 @@ https://py3.codeskulptor.org/#user303_I0jMGertv8_6.py
 AIPlayer Class:
 
 https://py3.codeskulptor.org/#user303_dJJ3lDmcrWJg3pT_32.py
+
+Spritesheets:
+  Left: https://imgur.com/a/amSd0KE
+  Right: https://imgur.com/a/97mJ3vW
