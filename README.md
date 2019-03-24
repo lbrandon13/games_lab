@@ -19,6 +19,8 @@ Border class:
 
 https://py3.codeskulptor.org/#user303_eyam2r6sS4UHOw6_5.py
 
+Modified Vector Class: https://py3.codeskulptor.org/#user303_eyam2r6sS4UHOw6_6.py
+
 Interaction Class:
 
 https://py3.codeskulptor.org/#user303_sHm6Ax3QmhlXVsW_1.py
@@ -52,5 +54,5 @@ https://py3.codeskulptor.org/#user303_lDet42Kt9y_5.py
 
 Vector Class (Slimmed):
 
-https://py3.codeskulptor.org/#user303_I0jMGertv8_2.py
+https://py3.codeskulptor.org/#user303_I0jMGertv8_6.py
 
