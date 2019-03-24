@@ -2,7 +2,7 @@
 
 Game Class:
 
-https://py3.codeskulptor.org/#user303_x0wIrIn6PK6xTWd_72.py
+https://py3.codeskulptor.org/#user303_x0wIrIn6PK6xTWd_73.py
 
 main:
 
@@ -17,7 +17,7 @@ https://py3.codeskulptor.org/#user303_FoF2Efiv6Z7lU0i_2.py
 
 Border class:
 
-https://py3.codeskulptor.org/#user303_HtOMrIVWUd_0.py
+https://py3.codeskulptor.org/#user303_HtOMrIVWUd_1.py
 
 Modified Vector Class: https://py3.codeskulptor.org/#user303_eyam2r6sS4UHOw6_6.py
 
