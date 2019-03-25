@@ -2,7 +2,7 @@
 
 Game Class:
 
-https://py3.codeskulptor.org/#user303_d0jXUBECq3_12.py
+https://py3.codeskulptor.org/#user303_d0jXUBECq3_13.py
 
 main:
 
@@ -13,7 +13,7 @@ https://py3.codeskulptor.org/#user303_LkGhj1sFfz_7.py
 
 Player class:
 
-https://py3.codeskulptor.org/#user303_FoF2Efiv6Z7lU0i_11.py
+https://py3.codeskulptor.org/#user303_FoF2Efiv6Z7lU0i_13.py
 
 Border class:
 
@@ -46,7 +46,7 @@ https://py3.codeskulptor.org/#user303_DxYmQtRimW_13.py
 
 State Class:
 
-https://py3.codeskulptor.org/#user303_IhZ0SYce1YLJY8Z_8.py
+https://py3.codeskulptor.org/#user303_IhZ0SYce1YLJY8Z_11.py
 
 Menu Class (Matt):
 
@@ -58,7 +58,7 @@ https://py3.codeskulptor.org/#user303_I0jMGertv8_6.py
 
 AIPlayer Class:
 
-https://py3.codeskulptor.org/#user303_dJJ3lDmcrWJg3pT_36.py
+https://py3.codeskulptor.org/#user303_dJJ3lDmcrWJg3pT_38.py
 
 Spritesheets:
   Left: https://imgur.com/a/amSd0KE
