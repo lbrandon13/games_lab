@@ -2,7 +2,7 @@
 
 Game Class:
 
-https://py3.codeskulptor.org/#user303_d0jXUBECq3_20.py
+https://py3.codeskulptor.org/#user303_d0jXUBECq3_21.py
 
 Vector Class (Slimmed):
 
@@ -10,15 +10,15 @@ https://py3.codeskulptor.org/#user303_I0jMGertv8_7.py
 
 Player class:
 
-https://py3.codeskulptor.org/#user303_FoF2Efiv6Z7lU0i_13.py
+https://py3.codeskulptor.org/#user303_FoF2Efiv6Z7lU0i_14.py
 
 Border class:
 
-https://py3.codeskulptor.org/#user303_HtOMrIVWUd_1.py
+https://py3.codeskulptor.org/#user303_HtOMrIVWUd_2.py
 
 Interaction Class:
 
-https://py3.codeskulptor.org/#user303_sHm6Ax3QmhlXVsW_3.py
+https://py3.codeskulptor.org/#user303_sHm6Ax3QmhlXVsW_5.py
 
 Keyboard Class:
 
@@ -26,11 +26,11 @@ https://py3.codeskulptor.org/#user303_riyL9ZkKmfNOblk_2.py
 
 Spritesheet Class:
 
-https://py3.codeskulptor.org/#user303_Apsp3I16Di3q6zQ_6.py
+https://py3.codeskulptor.org/#user303_Apsp3I16Di3q6zQ_7.py
 
 Ball Class (V3):
 
-https://py3.codeskulptor.org/#user303_DxYmQtRimW_13.py
+https://py3.codeskulptor.org/#user303_DxYmQtRimW_14.py
 
 State Class:
 
@@ -38,7 +38,7 @@ https://py3.codeskulptor.org/#user303_IhZ0SYce1YLJY8Z_16.py
 
 AIPlayer Class:
 
-https://py3.codeskulptor.org/#user303_dJJ3lDmcrWJg3pT_38.py
+https://py3.codeskulptor.org/#user303_dJJ3lDmcrWJg3pT_39.py
 
 Spritesheets:
   Left: https://imgur.com/a/amSd0KE
