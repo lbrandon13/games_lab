@@ -2,7 +2,7 @@
 
 Game Class:
 
-https://py3.codeskulptor.org/#user303_d0jXUBECq3_17.py
+https://py3.codeskulptor.org/#user303_d0jXUBECq3_18.py
 
 Vector Class (Slimmed):
 
@@ -34,7 +34,7 @@ https://py3.codeskulptor.org/#user303_DxYmQtRimW_13.py
 
 State Class:
 
-https://py3.codeskulptor.org/#user303_IhZ0SYce1YLJY8Z_11.py
+https://py3.codeskulptor.org/#user303_IhZ0SYce1YLJY8Z_16.py
 
 AIPlayer Class:
 
